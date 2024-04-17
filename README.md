@@ -1,25 +1,15 @@
-# 👋 Hi, I’m @shaileshmaheshwari1
+👋 Hi, I’m @shaileshmaheshwari1
+🚀 About Me
+I am a dedicated Data Engineer 🛠️, proficient in transforming raw data into actionable insights. My expertise lies in leveraging cutting-edge technologies such as Azure Data Factory, Python 🐍, SQL 💼, and FastAPI 🚀 to architect robust data pipelines and drive efficient data processing. With a passion for innovation and problem-solving, I thrive in dynamic environments where I can apply my skills to tackle complex challenges.
 
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning advanced data analysis techniques and deep learning.
-- 💞️ I’m looking to collaborate on projects related to data analysis and predictive modeling.
-- 📫 How to reach me: https://github.com/shaileshmaheshwari1
+Feel free to explore my GitHub repositories to discover more about my projects and contributions.
 
-## About Me
-I am a data scientist passionate about extracting insights from data and building predictive models. I have experience in [mention any specific skills or technologies you're proficient in]. I love working on challenging projects and leveraging data to solve real-world problems.
-
-Feel free to explore my GitHub repositories to find more of my work.
-
-## Skills
-- Data Analysis
-- Machine Learning
-- Data Visualization
+💼 Skills
+Data Engineering
+Azure Data Factory
+Python
+SQL
+FastAPI
+Let's connect and collaborate on exciting data engineering projects! You can reach me on GitHub. 🤝
 
 
-
-Let's connect and collaborate on exciting data science projects!
-
-<!---
-shaileshmaheshwari1/shaileshmaheshwari1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
